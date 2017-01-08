@@ -1,5 +1,5 @@
-#VIP TEAM_A6
-# channel [🌐VIP🏅TEAM🌐](https://telegram.me/VIP_TEAM1)
+#DEVKEEPER
+# channel [🌐DEVKEEPER🌐](https://telegram.me/DEV_KEEPER_NEW)
 * * *
 
 
@@ -14,10 +14,10 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 sudo apt-get upgrade
 
 #4
-git clone https://github.com/vipteam1/VIP_TEAM_A6.git
+git clone https://github.com/llX8Xll/DEVKEEPER1.git
 
 #5
-cd VIPTEAM_A6
+cd DEVKEEPER1
 
 #6
 chmod +x launch.sh
@@ -40,8 +40,8 @@ After you run the bot for first time, send it !id. Get your ID and stop the bot.
 Then restart the bot.
 * * *
 
-# Support and development [🌐VIP🏅TEAM🌐](https://telegram.me/VIP_TEAM1) 🐾
+# Support and development [🌐DEV_KEEPER_NEW🌐](https://telegram.me/DEV_KEEPER_NEW) 🐾
 
 For managing on Telegram.
-ADD Source [@VIP_TEAM1](https://telegram.me/VIP_TEAM1) ❤️
-Subscribe to Source channel [🌐VIP🏅TEAM🌐](https://telegram.me/VIP_TEAM1) 
+ADD Source [@DEV_KEEPER_NEW](https://telegram.me/DEV_KEEPER_NEW) ❤️
+Subscribe to Source channel [🌐DEV_KEEPER_NEW🌐](https://telegram.me/DEV_KEEPER_NEW) 
