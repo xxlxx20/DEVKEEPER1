@@ -212,8 +212,7 @@ function create_config( )
   -- A simple config with basic plugins and ourselves as privileged user
   config = {
     enabled_plugins = {
-  "folders",
-    "ingroup",
+   "ingroup",
     "leave_ban",
     "lock_bot",
     "lock_fwd",
@@ -256,10 +255,12 @@ function create_config( )
     "member",
     "owners",
     "zxz",
-    "sudo2",
-    "welcam_ar",
     "edite",
-     "el_file"		
+    "el_file",
+    "me",
+    "dev1",
+    "WLC",
+    "plugins"			
 
     },
     sudo_users = { 218164567,0,tonumber(our_id)},--Sudo users
